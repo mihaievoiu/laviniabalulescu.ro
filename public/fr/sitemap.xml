@@ -2,107 +2,107 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://example.com/fr/</loc>
+    <loc>https://laviniabalulescu.ro/fr/</loc>
     <lastmod>2017-04-09T10:58:08-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.com/"
+                href="https://laviniabalulescu.ro/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://example.com/fr/"
+                href="https://laviniabalulescu.ro/fr/"
                 />
   </url><url>
-    <loc>https://example.com/fr/post/chapter-1/</loc>
+    <loc>https://laviniabalulescu.ro/fr/post/chapter-1/</loc>
     <lastmod>2017-04-09T10:58:08-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.com/post/chapter-1/"
+                href="https://laviniabalulescu.ro/post/chapter-1/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://example.com/fr/post/chapter-1/"
+                href="https://laviniabalulescu.ro/fr/post/chapter-1/"
                 />
   </url><url>
-    <loc>https://example.com/fr/tags/scene/</loc>
+    <loc>https://laviniabalulescu.ro/fr/tags/scene/</loc>
     <lastmod>2017-04-09T10:58:08-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.com/tags/scene/"
+                href="https://laviniabalulescu.ro/tags/scene/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://example.com/fr/tags/scene/"
+                href="https://laviniabalulescu.ro/fr/tags/scene/"
                 />
   </url><url>
-    <loc>https://example.com/fr/tags/</loc>
+    <loc>https://laviniabalulescu.ro/fr/tags/</loc>
     <lastmod>2017-04-09T10:58:08-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.com/tags/"
+                href="https://laviniabalulescu.ro/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://example.com/fr/tags/"
+                href="https://laviniabalulescu.ro/fr/tags/"
                 />
   </url><url>
-    <loc>https://example.com/fr/post/</loc>
+    <loc>https://laviniabalulescu.ro/fr/post/</loc>
     <lastmod>2017-03-02T12:00:00-05:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.com/post/"
+                href="https://laviniabalulescu.ro/post/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://example.com/fr/post/"
+                href="https://laviniabalulescu.ro/fr/post/"
                 />
   </url><url>
-    <loc>https://example.com/fr/categories/</loc>
+    <loc>https://laviniabalulescu.ro/fr/categories/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.com/categories/"
+                href="https://laviniabalulescu.ro/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://example.com/fr/categories/"
+                href="https://laviniabalulescu.ro/fr/categories/"
                 />
   </url><url>
-    <loc>https://example.com/fr/contact/</loc>
+    <loc>https://laviniabalulescu.ro/fr/contact/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.com/contact/"
+                href="https://laviniabalulescu.ro/contact/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://example.com/fr/contact/"
+                href="https://laviniabalulescu.ro/fr/contact/"
                 />
   </url>
 </urlset>
