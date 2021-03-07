@@ -27,5 +27,3 @@ fields:
       format: markdown
   label: Text area label
   description: text area
-pages:
-- content/my-title.md
