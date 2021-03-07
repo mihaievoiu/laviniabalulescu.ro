@@ -29,7 +29,7 @@
     
 
     
-    
+
     <meta property="og:title" content="Chapter II: Pierre Gringoire" />
 <meta property="og:description" content="Pierre Gringoire" />
 <meta property="og:type" content="article" />
@@ -46,6 +46,7 @@
 <meta name="twitter:description" content="Pierre Gringoire"/>
 
 	
+  <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
   </head>
 
   <body class="ma0 avenir bg-near-white">
@@ -280,5 +281,16 @@ clerk, he is a layman; you must not say master to him, but messire.”</p>
   </div>
 </footer>
 
+    <script>
+      if (window.netlifyIdentity) {
+        window.netlifyIdentity.on("init", user => {
+          if (!user) {
+            window.netlifyIdentity.on("login", () => {
+              document.location.href = "/admin/";
+            });
+          }
+        });
+      }
+    </script>
   </body>
 </html>

@@ -29,7 +29,7 @@
     
 
     
-    
+
     <meta property="og:title" content="Chapter I: The Grand Hall" />
 <meta property="og:description" content="The Grand Hall" />
 <meta property="og:type" content="article" />
@@ -46,6 +46,7 @@
 <meta name="twitter:description" content="The Grand Hall"/>
 
 	
+  <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
   </head>
 
   <body class="ma0 avenir bg-near-white">
@@ -311,5 +312,16 @@ the _maréchaussée_ to our _gendarmeri_ of Paris.</p>
   </div>
 </footer>
 
+    <script>
+      if (window.netlifyIdentity) {
+        window.netlifyIdentity.on("init", user => {
+          if (!user) {
+            window.netlifyIdentity.on("login", () => {
+              document.location.href = "/admin/";
+            });
+          }
+        });
+      }
+    </script>
   </body>
 </html>

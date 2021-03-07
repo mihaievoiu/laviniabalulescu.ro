@@ -29,7 +29,7 @@
     
 
     
-    
+
     <meta property="og:title" content="Chapitre I: La grande halle" />
 <meta property="og:description" content="La grande halle" />
 <meta property="og:type" content="article" />
@@ -46,6 +46,7 @@
 <meta name="twitter:description" content="La grande halle"/>
 
 	
+  <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
   </head>
 
   <body class="ma0 avenir bg-near-white">
@@ -242,5 +243,16 @@
   </div>
 </footer>
 
+    <script>
+      if (window.netlifyIdentity) {
+        window.netlifyIdentity.on("init", user => {
+          if (!user) {
+            window.netlifyIdentity.on("login", () => {
+              document.location.href = "/admin/";
+            });
+          }
+        });
+      }
+    </script>
   </body>
 </html>
