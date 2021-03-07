@@ -1,4 +1,29 @@
 ---
 label: Test Template
 hide_body: false
-fields: []
+fields:
+- name: title
+  type: text
+  config:
+    required: false
+  label: title
+  description: page title
+- name: date
+  type: datetime
+  label: date
+  description: date
+  config:
+    required: false
+    date_format: 
+    time_format: 
+    display_utc: false
+- name: text_area_label
+  type: textarea
+  default: ''
+  config:
+    required: false
+    wysiwyg: false
+    schema:
+      format: markdown
+  label: Text area label
+  description: text area
